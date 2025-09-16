@@ -1,4 +1,4 @@
-# 🛒 eShop Home
+# 🛒 eShop-home
 
 Welcome to **eShop Home** — a modern, responsive, and feature-rich **e-commerce web application**.  
 This project is focused on creating a smooth **shopping experience** with a clean user interface and essential online store functionalities.  
@@ -28,12 +28,8 @@ This project is focused on creating a smooth **shopping experience** with a clea
 
 ## 🛠 Tech Stack
 
-- **Frontend:** React.js, HTML5, CSS3, JavaScript (ES6+)  
-- **State Management:** Context API / Redux (if used)  
-- **Styling:** CSS Modules / TailwindCSS / Bootstrap (based on your choice)  
-- **Backend (optional integration):** Node.js + Express  
-- **Database (optional):** MongoDB / PostgreSQL  
-- **Version Control:** Git & GitHub  
+<img width="2628" height="1944" alt="_- visual selection " src="https://github.com/user-attachments/assets/dbbef065-2fa4-4143-957b-b7f93a3316b3" />
+
 
 ---
 
